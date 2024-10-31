@@ -1,0 +1,1 @@
+{"mappings":"CAAC,SAAUA,GACV,aAMGC,QAJA,WAAW,GAId,CAPA","sources":["admin/js/src/opengraphiq-admin-settings.js"],"sourcesContent":["(function( $ ) {\n\t'use strict';\n\n\t $(function() {\t\n\t\t\n\t});\n\n})( jQuery );\n"],"names":["$","jQuery"],"version":3,"file":"opengraphiq-admin-settings.js.map"}

@@ -1,0 +1,235 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-12 12:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/class-opengraphiq-admin.php:140 admin/class-opengraphiq-admin.php:155
+#: admin/class-opengraphiq-admin.php:173
+msgid "Skipped"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:141 admin/class-opengraphiq-admin.php:156
+#: admin/class-opengraphiq-admin.php:174
+msgid "Finished"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:142 admin/class-opengraphiq-admin.php:157
+#: admin/class-opengraphiq-admin.php:175
+msgid "Working"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:143
+msgid "Non existing post"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:196
+msgid "OG Templates"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:197 admin/class-opengraphiq-admin.php:398
+msgid "OG Template"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:198
+msgid "OpenGraphiq"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:199
+msgid "All OG Templates"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:200
+msgid "View OG Template"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:201
+msgid "Add New OG Template"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:202
+msgid "Add New"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:203
+msgid "Edit OG Template"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:204
+msgid "Update OG Template"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:205
+msgid "Search OG Templates"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:206
+msgid "Not Found"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:207
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:211
+msgid "templates"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:212
+msgid "OpenGraphiq templates"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:286 admin/class-opengraphiq-admin.php:331
+msgid "OG image"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:286
+msgid "OG template"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:300 admin/class-opengraphiq-admin.php:318
+#: admin/class-opengraphiq-admin.php:321 admin/class-opengraphiq-admin.php:343
+msgid "None"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:303
+msgid "OG disabled"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:400 admin/class-opengraphiq-admin.php:823
+msgid " Inherit from Settings "
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:401 admin/class-opengraphiq-admin.php:829
+msgid " No image by OpenGraphiq "
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:418
+msgid "Filter by OG image"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:419
+msgid "With OG image"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:420
+msgid "Without OG image"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:501
+#: admin/partials/opengraphiq-admin-display.php:10
+msgid "OpenGraphiq Settings"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:544
+msgid "Enter post id and test this template: "
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:547
+msgid "Test the template"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:551
+msgid "Saving template"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:733
+msgid "Choose the default template"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:741
+msgid ""
+"There are no templates defined. Please import premade templates or create a "
+"new one"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:780
+msgid " General default template "
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:786
+msgid " No images by OpenGraphiq "
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:875
+msgid "Generate Open Graph Images"
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:961
+#, php-format
+msgid "Generated OG images for %d posts."
+msgstr ""
+
+#: admin/class-opengraphiq-admin.php:964
+msgid "Settings saved!"
+msgstr ""
+
+#: admin/partials/opengraphiq-admin-display.php:13
+msgid "General Settings"
+msgstr ""
+
+#: admin/partials/opengraphiq-admin-display.php:14
+msgid ""
+"Please choose the default Opengraphiq template to be used. This can be "
+"overriden for individual post types or ven posts."
+msgstr ""
+
+#: admin/partials/opengraphiq-admin-display.php:19
+msgid "Default template"
+msgstr ""
+
+#: admin/partials/opengraphiq-admin-display.php:41
+msgid "Save changes"
+msgstr ""
+
+#: admin/partials/opengraphiq-admin-meta-box.php:12
+msgid "Override the general template"
+msgstr ""
+
+#: admin/partials/opengraphiq-admin-meta-box.php:42
+#: admin/partials/opengraphiq-admin-meta-box.php:56
+msgid "Facebook OG debugger"
+msgstr ""
+
+#: admin/partials/opengraphiq-admin-meta-box.php:43
+#: admin/partials/opengraphiq-admin-meta-box.php:57
+msgid "Twitter Card validator"
+msgstr ""
+
+#: admin/partials/opengraphiq-admin-meta-box.php:44
+#: admin/partials/opengraphiq-admin-meta-box.php:58
+msgid "Generate new image"
+msgstr ""
+
+#: admin/partials/opengraphiq-admin-meta-box.php:66
+msgid "Save template settings"
+msgstr ""
+
+#: admin/partials/opengraphiq-bulk.php:10
+msgid "Bulk Creation of Open Graph Images"
+msgstr ""
+
+#: admin/partials/opengraphiq-bulk.php:11
+msgid "The Open Graph images will be created for the following posts:"
+msgstr ""
+
+#: admin/partials/opengraphiq-bulk.php:26
+msgid "OK, generate OG images"
+msgstr ""
+
+#: admin/partials/opengraphiq-bulk.php:27
+msgid "Back to the post list"
+msgstr ""

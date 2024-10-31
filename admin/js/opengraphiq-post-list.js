@@ -1,0 +1,2 @@
+!function(t){"use strict";t((function(){var e=inlineEditPost.edit;inlineEditPost.edit=function(i){e.apply(this,arguments);var n=0;if("object"==typeof i&&(n=parseInt(this.getId(i))),n>0){var a=t("#edit-"+n),s=t("#post-"+n),o=t(".ogtemplate div",s).data("templateid");isNaN(parseInt(o))||t('select[name="opengraphiq_setting_post_meta"]',a).find("option[value="+o+"]").attr("selected","selected")}}}))}(jQuery);
+//# sourceMappingURL=opengraphiq-post-list.js.map
